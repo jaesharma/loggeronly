@@ -3,19 +3,6 @@
     "loggeronly": {
       "main": "src/loggeronly/main.mo",
       "type": "motoko"
-    },
-    "loggeronly_assets": {
-      "dependencies": [
-        "loggeronly"
-      ],
-      "frontend": {
-        "entrypoint": "src/loggeronly_assets/src/index.html"
-      },
-      "source": [
-        "src/loggeronly_assets/assets",
-        "dist/loggeronly_assets/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {

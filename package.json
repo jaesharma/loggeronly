@@ -1,7 +1,7 @@
 {
   "name": "loggeronly_assets",
   "version": "0.1.0",
-  "description": "Internet Computer starter application",
+  "description": "Logger only to test deploy",
   "keywords": ["Internet Computer", "Motoko", "JavaScript", "Canister"],
   "scripts": {
     "build": "webpack",
